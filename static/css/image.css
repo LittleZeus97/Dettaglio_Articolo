@@ -1,10 +1,3 @@
-.articleImage {
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding: absolute;
-    width: 1068px;
-    height: 710px;
-    
+.articleImage{
+    padding: 50px;
 }

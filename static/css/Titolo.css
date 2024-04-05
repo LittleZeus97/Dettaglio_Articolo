@@ -1,8 +1,4 @@
 .articleTitle{
-    font-family: sans-serif;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 150px;
-    margin-right: 150px;
-    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
 }
